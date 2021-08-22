@@ -112,7 +112,11 @@ const Home = () => {
 
       <div className="copyright">
         Copyright (c) 2020{" "}
-        <a href="https://github.com/Rohit-Ingole" target="_blank">
+        <a
+          href="https://github.com/Rohit-Ingole"
+          target="_blank"
+          rel="noreferrer"
+        >
           Rohit Ingole
         </a>
       </div>
